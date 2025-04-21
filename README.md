@@ -37,8 +37,8 @@ To achieve my set goals the strategy was to read the file in three phases and re
 
 ## Author
 
-ex. Stephan Strydom  
-ex. [sstrydom@gmail.com](mailto:sstrydom@gmail.com)
+Stephan Strydom  
+[sstrydom@gmail.com](mailto:sstrydom@gmail.com)
 
 ## License
 
